@@ -1,0 +1,8 @@
+aiogram==2.25.1
+gspread
+google-auth
+python-dotenv
+pandas
+requests
+prettytable
+openpyxl
